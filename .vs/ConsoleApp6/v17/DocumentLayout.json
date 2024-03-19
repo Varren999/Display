@@ -1,10 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\123\\source\\repos\\ConsoleApp6\\",
+  "WorkspaceRootPath": "C:\\Users\\varre\\source\\repos\\Display\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25A43CD2-8818-4C16-8C1C-1444BDD49E8E}|ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\123\\source\\repos\\consoleapp6\\consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25A43CD2-8818-4C16-8C1C-1444BDD49E8E}|ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\varre\\source\\repos\\display\\consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25A43CD2-8818-4C16-8C1C-1444BDD49E8E}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25A43CD2-8818-4C16-8C1C-1444BDD49E8E}|ConsoleApp6\\ConsoleApp6.csproj|c:\\users\\varre\\source\\repos\\display\\consoleapp6\\screensize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25A43CD2-8818-4C16-8C1C-1444BDD49E8E}|ConsoleApp6\\ConsoleApp6.csproj|solutionrelative:consoleapp6\\screensize.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -17,18 +21,27 @@
           "SelectedChildIndex": 1,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ScreenSize.cs",
+              "DocumentMoniker": "C:\\Users\\varre\\source\\repos\\Display\\ConsoleApp6\\ScreenSize.cs",
+              "RelativeDocumentMoniker": "ConsoleApp6\\ScreenSize.cs",
+              "ToolTip": "C:\\Users\\varre\\source\\repos\\Display\\ConsoleApp6\\ScreenSize.cs",
+              "RelativeToolTip": "ConsoleApp6\\ScreenSize.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-19T12:34:16.201Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\123\\source\\repos\\ConsoleApp6\\ConsoleApp6\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\varre\\source\\repos\\Display\\ConsoleApp6\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp6\\Program.cs",
-              "ToolTip": "C:\\Users\\123\\source\\repos\\ConsoleApp6\\ConsoleApp6\\Program.cs",
+              "ToolTip": "C:\\Users\\varre\\source\\repos\\Display\\ConsoleApp6\\Program.cs",
               "RelativeToolTip": "ConsoleApp6\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-27T03:37:40.741Z",
               "EditorCaption": ""
